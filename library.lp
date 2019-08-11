@@ -1,0 +1,11 @@
+(librepcb_library ea354fad-fd28-4716-8e56-688d122b84b0
+ (name "Brgn")
+ (description "Our own parts for LibrePCB.")
+ (keywords "")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-08-10T12:30:30Z)
+ (deprecated false)
+ (url "https://github.com/dbrgn/Brgn.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
