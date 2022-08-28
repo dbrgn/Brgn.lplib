@@ -1,0 +1,10 @@
+(librepcb_component_category 9028d7e5-8b5f-47e0-918e-1c1342b89e2d
+ (name "Illustrations / Logos")
+ (description "")
+ (keywords "")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2022-07-27T21:22:40Z)
+ (deprecated false)
+ (parent 213bd44f-f375-41d8-8fdd-0652eb893e27)
+)
