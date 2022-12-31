@@ -1,0 +1,10 @@
+(librepcb_package_category 462ab111-d047-4c26-9709-565698c245e5
+ (name "GCT")
+ (description "")
+ (keywords "")
+ (author "Danilo B.")
+ (version "0.1")
+ (created 2022-12-31T00:28:15Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
