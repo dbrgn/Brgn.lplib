@@ -1,0 +1,10 @@
+(librepcb_package_category fefc940d-5364-40e4-ab93-1b3c8ca11e1d
+ (name "Vishay")
+ (description "")
+ (keywords "")
+ (author "Danilo B.")
+ (version "0.1")
+ (created 2023-01-01T22:25:42Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
